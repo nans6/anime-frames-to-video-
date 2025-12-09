@@ -5,6 +5,8 @@
 Jet Wu ([jetw@andrew.cmu.edu](mailto:jetw@andrew.cmu.edu)), Ananya Sharma ([ananyash@andrew.cmu.edu](mailto:ananyash@andrew.cmu.edu)), Rithwick Sethi ([rithwics@andrew.cmu.edu](mailto:rithwics@andrew.cmu.edu))
 
 ---
+### DEMO: 
+https://comic2vid-sfup4cqn.manus.space/
 
 ### Results
 
