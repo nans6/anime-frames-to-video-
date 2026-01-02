@@ -1,4 +1,3 @@
-
 # Attack on GenAI:
 
 **Project Team:**  
